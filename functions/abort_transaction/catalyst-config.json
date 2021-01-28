@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "abort_transaction",
+		"stack": "java8",
+		"type": "cron"
+	},
+	"execution": {
+		"main": "AbortTransaction"
+	}
+}

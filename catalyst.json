@@ -1,0 +1,20 @@
+{
+  "functions": {
+    "targets": [
+      "api",
+      "pay",
+      "abort_transaction",
+      "timeout_deal",
+      "refresh_auth"
+    ],
+    "ignore": [
+      ".output",
+      ".project",
+      ".classpath"
+    ],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}

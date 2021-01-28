@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "timeout_deal",
+		"stack": "java8",
+		"type": "event"
+	},
+	"execution": {
+		"main": "TimeoutDeal"
+	}
+}

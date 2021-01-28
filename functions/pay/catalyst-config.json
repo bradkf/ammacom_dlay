@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "pay",
+		"stack": "java8",
+		"type": "advancedio"
+	},
+	"execution": {
+		"main": "Pay"
+	}
+}
