@@ -2,20 +2,6 @@
 
 public class TestConfig extends Config{		
 	
-	@Override
-	public String getCRMClientId() {
-		return "1000.5B7LXV9Y93RMMB4M84AVYIZWHZ91NA";
-	}
-
-	@Override
-	public String getCRMClientSecret() {		
-		return "e08aae59f1e525282b41c6ceb3b5e6b39ffe072f56";
-	}
-
-	@Override
-	public String getCRMRefreshToken() {
-		return "1000.241f57fe1853ba4bcf6d17a00627f491.2959135db2ef27cece5113999152f2ae";
-	}
 	
 	public String getPeachHost() {
 		return "test.oppwa.com";
